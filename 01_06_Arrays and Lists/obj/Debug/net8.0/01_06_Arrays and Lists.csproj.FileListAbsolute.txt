@@ -1,0 +1,14 @@
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\bin\Debug\net8.0\01_06_Arrays and Lists.exe
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\bin\Debug\net8.0\01_06_Arrays and Lists.deps.json
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\bin\Debug\net8.0\01_06_Arrays and Lists.runtimeconfig.json
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\bin\Debug\net8.0\01_06_Arrays and Lists.dll
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\bin\Debug\net8.0\01_06_Arrays and Lists.pdb
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\obj\Debug\net8.0\01_06_Arrays and Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\obj\Debug\net8.0\01_06_Arrays and Lists.AssemblyInfoInputs.cache
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\obj\Debug\net8.0\01_06_Arrays and Lists.AssemblyInfo.cs
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\obj\Debug\net8.0\01_06_Arrays and Lists.csproj.CoreCompileInputs.cache
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\obj\Debug\net8.0\01_06_Arrays and Lists.dll
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\obj\Debug\net8.0\refint\01_06_Arrays and Lists.dll
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\obj\Debug\net8.0\01_06_Arrays and Lists.pdb
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\obj\Debug\net8.0\01_06_Arrays and Lists.genruntimeconfig.cache
+C:\Users\t440s\Documents\cSharp Project\01_06_Arrays and Lists\obj\Debug\net8.0\ref\01_06_Arrays and Lists.dll

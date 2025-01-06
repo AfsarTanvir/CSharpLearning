@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t440s\\Documents\\cSharp Project\\LearnCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F6E835-FCF1-4BF9-9878-20BE66ED7149}|..\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj|c:\\users\\t440s\\documents\\csharp project\\04_non-primitive types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23E9F0-0C1D-4A20-B7C1-B31BBC7C069F}|..\\03_Primitive Types and Expressions\\01_03_Primitive Types and Expressions.csproj|c:\\users\\t440s\\documents\\csharp project\\03_primitive types and expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23E9F0-0C1D-4A20-B7C1-B31BBC7C069F}|..\\03_Primitive Types and Expressions\\01_03_Primitive Types and Expressions.csproj|c:\\users\\t440s\\documents\\csharp project\\03_primitive types and expressions\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23E9F0-0C1D-4A20-B7C1-B31BBC7C069F}|..\\03_Primitive Types and Expressions\\01_03_Primitive Types and Expressions.csproj|c:\\users\\t440s\\documents\\csharp project\\03_primitive types and expressions\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23E9F0-0C1D-4A20-B7C1-B31BBC7C069F}|..\\03_Primitive Types and Expressions\\01_03_Primitive Types and Expressions.csproj|c:\\users\\t440s\\documents\\csharp project\\03_primitive types and expressions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A23E9F0-0C1D-4A20-B7C1-B31BBC7C069F}|..\\03_Primitive Types and Expressions\\01_03_Primitive Types and Expressions.csproj|c:\\users\\t440s\\documents\\csharp project\\03_primitive types and expressions\\01_03_primitive types and expressions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D5B7A5C-D455-4F04-8E29-F45BB9BD3103}|..\\05_Control Flow\\01_05_Control Flow.csproj|c:\\users\\t440s\\documents\\csharp project\\05_control flow\\01_05_control flow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F6E835-FCF1-4BF9-9878-20BE66ED7149}|..\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj|c:\\users\\t440s\\documents\\csharp project\\04_non-primitive types\\01_04_non-primitive types.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1112EF-959D-489C-AA15-B82751CA279A}|..\\01_07_Working With Dates\\01_07_Working With Dates.csproj|c:\\users\\t440s\\documents\\csharp project\\01_07_working with dates\\timespan01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1112EF-959D-489C-AA15-B82751CA279A}|..\\01_07_Working With Dates\\01_07_Working With Dates.csproj|c:\\users\\t440s\\documents\\csharp project\\01_07_working with dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1112EF-959D-489C-AA15-B82751CA279A}|..\\01_07_Working With Dates\\01_07_Working With Dates.csproj|c:\\users\\t440s\\documents\\csharp project\\01_07_working with dates\\datetime01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\04_Non-Primitive Types\\Program.cs",
+              "RelativeDocumentMoniker": "..\\04_Non-Primitive Types\\Program.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\04_Non-Primitive Types\\Program.cs",
+              "RelativeToolTip": "..\\04_Non-Primitive Types\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:49:21.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\03_Primitive Types and Expressions\\Program.cs",
+              "RelativeDocumentMoniker": "..\\03_Primitive Types and Expressions\\Program.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\03_Primitive Types and Expressions\\Program.cs",
+              "RelativeToolTip": "..\\03_Primitive Types and Expressions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:49:11.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\03_Primitive Types and Expressions\\Class3.cs",
+              "RelativeDocumentMoniker": "..\\03_Primitive Types and Expressions\\Class3.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\03_Primitive Types and Expressions\\Class3.cs",
+              "RelativeToolTip": "..\\03_Primitive Types and Expressions\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:49:10.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\03_Primitive Types and Expressions\\Class2.cs",
+              "RelativeDocumentMoniker": "..\\03_Primitive Types and Expressions\\Class2.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\03_Primitive Types and Expressions\\Class2.cs",
+              "RelativeToolTip": "..\\03_Primitive Types and Expressions\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:49:10.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\03_Primitive Types and Expressions\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\03_Primitive Types and Expressions\\Class1.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\03_Primitive Types and Expressions\\Class1.cs",
+              "RelativeToolTip": "..\\03_Primitive Types and Expressions\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:49:07.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "01_05_Control Flow",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\05_Control Flow\\01_05_Control Flow.csproj",
+              "RelativeDocumentMoniker": "..\\05_Control Flow\\01_05_Control Flow.csproj",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\05_Control Flow\\01_05_Control Flow.csproj",
+              "RelativeToolTip": "..\\05_Control Flow\\01_05_Control Flow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T14:48:18.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "01_03_Primitive Types and Expressions",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\03_Primitive Types and Expressions\\01_03_Primitive Types and Expressions.csproj",
+              "RelativeDocumentMoniker": "..\\03_Primitive Types and Expressions\\01_03_Primitive Types and Expressions.csproj",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\03_Primitive Types and Expressions\\01_03_Primitive Types and Expressions.csproj",
+              "RelativeToolTip": "..\\03_Primitive Types and Expressions\\01_03_Primitive Types and Expressions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T14:48:16.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "01_04_Non-Primitive Types",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj",
+              "RelativeDocumentMoniker": "..\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj",
+              "RelativeToolTip": "..\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T14:48:12.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimeSpan01.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\01_07_Working With Dates\\TimeSpan01.cs",
+              "RelativeDocumentMoniker": "..\\01_07_Working With Dates\\TimeSpan01.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\01_07_Working With Dates\\TimeSpan01.cs",
+              "RelativeToolTip": "..\\01_07_Working With Dates\\TimeSpan01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:20:49.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DateTime01.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\01_07_Working With Dates\\DateTime01.cs",
+              "RelativeDocumentMoniker": "..\\01_07_Working With Dates\\DateTime01.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\01_07_Working With Dates\\DateTime01.cs",
+              "RelativeToolTip": "..\\01_07_Working With Dates\\DateTime01.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:19:16.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\01_07_Working With Dates\\Program.cs",
+              "RelativeDocumentMoniker": "..\\01_07_Working With Dates\\Program.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\01_07_Working With Dates\\Program.cs",
+              "RelativeToolTip": "..\\01_07_Working With Dates\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:52:27.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\bin\Debug\net8.0\01_03_Primitive Types and Expressions.exe
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\bin\Debug\net8.0\01_03_Primitive Types and Expressions.deps.json
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\bin\Debug\net8.0\01_03_Primitive Types and Expressions.runtimeconfig.json
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\bin\Debug\net8.0\01_03_Primitive Types and Expressions.dll
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\bin\Debug\net8.0\01_03_Primitive Types and Expressions.pdb
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\obj\Debug\net8.0\01_03_Primitive Types and Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\obj\Debug\net8.0\01_03_Primitive Types and Expressions.AssemblyInfoInputs.cache
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\obj\Debug\net8.0\01_03_Primitive Types and Expressions.AssemblyInfo.cs
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\obj\Debug\net8.0\01_03_Primitive Types and Expressions.csproj.CoreCompileInputs.cache
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\obj\Debug\net8.0\01_03_Primitive Types and Expressions.dll
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\obj\Debug\net8.0\refint\01_03_Primitive Types and Expressions.dll
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\obj\Debug\net8.0\01_03_Primitive Types and Expressions.pdb
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\obj\Debug\net8.0\01_03_Primitive Types and Expressions.genruntimeconfig.cache
+C:\Users\t440s\Documents\cSharp Project\03_Primitive Types and Expressions\obj\Debug\net8.0\ref\01_03_Primitive Types and Expressions.dll
