@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\LearnCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0141E53-7D40-41E7-B4BC-4A951768C65A}|..\\01_10_Debugging Applications\\01_10_Debugging Applications.csproj|c:\\users\\t440s\\documents\\csharp project\\csharp_learning\\csharplearning\\01_10_debugging applications\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0141E53-7D40-41E7-B4BC-4A951768C65A}|..\\01_10_Debugging Applications\\01_10_Debugging Applications.csproj|c:\\users\\t440s\\documents\\csharp project\\csharp_learning\\csharplearning\\01_10_debugging applications\\debugging02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0141E53-7D40-41E7-B4BC-4A951768C65A}|..\\01_10_Debugging Applications\\01_10_Debugging Applications.csproj|c:\\users\\t440s\\documents\\csharp project\\csharp_learning\\csharplearning\\01_10_debugging applications\\callstack01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0141E53-7D40-41E7-B4BC-4A951768C65A}|..\\01_10_Debugging Applications\\01_10_Debugging Applications.csproj|c:\\users\\t440s\\documents\\csharp project\\csharp_learning\\csharplearning\\01_10_debugging applications\\debugging01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_10_Debugging Applications\\Program.cs",
+              "RelativeDocumentMoniker": "..\\01_10_Debugging Applications\\Program.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_10_Debugging Applications\\Program.cs",
+              "RelativeToolTip": "..\\01_10_Debugging Applications\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:29:16.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CallStack01.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_10_Debugging Applications\\CallStack01.cs",
+              "RelativeDocumentMoniker": "..\\01_10_Debugging Applications\\CallStack01.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_10_Debugging Applications\\CallStack01.cs",
+              "RelativeToolTip": "..\\01_10_Debugging Applications\\CallStack01.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:52:12.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Debugging02.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_10_Debugging Applications\\Debugging02.cs",
+              "RelativeDocumentMoniker": "..\\01_10_Debugging Applications\\Debugging02.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_10_Debugging Applications\\Debugging02.cs",
+              "RelativeToolTip": "..\\01_10_Debugging Applications\\Debugging02.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwBgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:08:22.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Debugging01.cs",
+              "DocumentMoniker": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_10_Debugging Applications\\Debugging01.cs",
+              "RelativeDocumentMoniker": "..\\01_10_Debugging Applications\\Debugging01.cs",
+              "ToolTip": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_10_Debugging Applications\\Debugging01.cs",
+              "RelativeToolTip": "..\\01_10_Debugging Applications\\Debugging01.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:48:01.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

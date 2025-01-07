@@ -1,0 +1,58 @@
+# Build Folders (Unnecessary for source control)
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+
+# Logs
+*.log
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.appx
+*.dbmdl
+*.dbproj.schemaview
+
+# Visual Studio Code
+.vscode/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Package Folders (can be restored using NuGet)
+*.nupkg
+packages/
+*.snupkg
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Node modules (for projects using Node.js with C#)
+node_modules/
+
+# IDE or Text Editor Workspace
+*.swp
+*.swo
+
+# Other
+.DS_Store

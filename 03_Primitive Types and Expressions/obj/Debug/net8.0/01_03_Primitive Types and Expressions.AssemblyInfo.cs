@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01_03_Primitive Types and Expressions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3829e6178961170f6ad1fb74e87bfd3d42cf328")]
 [assembly: System.Reflection.AssemblyProductAttribute("01_03_Primitive Types and Expressions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01_03_Primitive Types and Expressions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\t440s\\Documents\\cSharp Project\\01_07_Working With Dates\\01_07_Working With Dates.csproj": {}
+    "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_07_Working With Dates\\01_07_Working With Dates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\t440s\\Documents\\cSharp Project\\01_07_Working With Dates\\01_07_Working With Dates.csproj": {
+    "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_07_Working With Dates\\01_07_Working With Dates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\t440s\\Documents\\cSharp Project\\01_07_Working With Dates\\01_07_Working With Dates.csproj",
+        "projectUniqueName": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_07_Working With Dates\\01_07_Working With Dates.csproj",
         "projectName": "01_07_Working With Dates",
-        "projectPath": "C:\\Users\\t440s\\Documents\\cSharp Project\\01_07_Working With Dates\\01_07_Working With Dates.csproj",
+        "projectPath": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_07_Working With Dates\\01_07_Working With Dates.csproj",
         "packagesPath": "C:\\Users\\t440s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\t440s\\Documents\\cSharp Project\\01_07_Working With Dates\\obj\\",
+        "outputPath": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\01_07_Working With Dates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\t440s\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\t440s\\Documents\\cSharp Project\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj": {}
+    "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj": {}
   },
   "projects": {
-    "C:\\Users\\t440s\\Documents\\cSharp Project\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj": {
+    "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\t440s\\Documents\\cSharp Project\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj",
+        "projectUniqueName": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj",
         "projectName": "01_04_Non-Primitive Types",
-        "projectPath": "C:\\Users\\t440s\\Documents\\cSharp Project\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj",
+        "projectPath": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\04_Non-Primitive Types\\01_04_Non-Primitive Types.csproj",
         "packagesPath": "C:\\Users\\t440s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\t440s\\Documents\\cSharp Project\\04_Non-Primitive Types\\obj\\",
+        "outputPath": "C:\\Users\\t440s\\Documents\\cSharp Project\\CSharp_Learning\\CSharpLearning\\04_Non-Primitive Types\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\t440s\\AppData\\Roaming\\NuGet\\NuGet.Config",
